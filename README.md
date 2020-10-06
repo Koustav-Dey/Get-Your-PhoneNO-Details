@@ -6,8 +6,8 @@ This is a script .You Can collect a Basic Information from a target Phone Number
 You can All so upgrade it and add many more Features
 
 ### Modules
--->Time
--->phonenumbers
+<p>
+  time<\br>phonenumbers
 
 ### Installing Process
 
