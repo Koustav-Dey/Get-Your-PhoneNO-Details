@@ -1,4 +1,4 @@
-# Get-Your-PhoneNO-Details   [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+# Get-Your-PhoneNo-Details   [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 Hii I am Koustav. 
 This is a Python script .You Can collect a Basic Information from a target Phone Number.
 
