@@ -12,7 +12,8 @@ You can All so upgrade it and add many more Features
 
 ### Installing Process
 
-Open Windows Powershell
-type Python and Hit Enter
-type pip install phonenumbers
-paste the code
+<p>
+  Open Windows Powershell<br>type Python and Hit Enter<br>type pip install phonenumbers<br>paste the code
+</p>
+
+
